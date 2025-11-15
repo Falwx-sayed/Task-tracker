@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries",
+        "status": "done",
+        "created_at": "2025-11-15 16:56:29",
+        "updatedAt": "2025-11-15 17:30:07"
+    },
+    {
+        "id": 4,
+        "description": "Prepare dinner",
+        "status": "todo",
+        "created_at": "2025-11-15 17:14:01",
+        "updatedAt": "2025-11-15 17:14:01"
+    },
+    {
+        "id": 5,
+        "description": "Study Python",
+        "status": "todo",
+        "created_at": "2025-11-15 17:14:01",
+        "updatedAt": "2025-11-15 17:14:01"
+    },
+    {
+        "id": 6,
+        "description": "Finish homework",
+        "status": "in-progress",
+        "created_at": "2025-11-15 17:40:20",
+        "updatedAt": "2025-11-15 17:40:30"
+    }
+]
