@@ -21,10 +21,16 @@ Track tasks you need to do, mark them as in-progress or done, update, delete, an
 
 1. Clone the repository:
 
-```bash
+````bash
 git clone <YOUR_GITHUB_REPO_URL>
 cd task-tracker
 
 
 chmod +x task_cli.py
-```
+
+```run
+
+./task_cli.py <command> [arguments]
+# or
+python3 task_cli.py <command> [arguments]
+````
